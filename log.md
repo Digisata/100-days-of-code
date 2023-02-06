@@ -14,3 +14,12 @@
 **Thoughts:** learn a bit about the unit tests in go and create a new branch before its release with a new tag.
 
 **Link to work:** [Digiutils](https://github.com/Digisata/digiutils/commit/69740a082019d6d50ea1ba7791a6c0a62d48552e)
+### Day 2: February 6, 2023
+
+**Today's Progress**: Created a new repository to enable others to consume the endpoint. And now my library has reached v1.0.2.
+
+**Thoughts:** Next, I want to make API documentation and distribute its docker image.
+
+**Link(s) to work**
+1. [Digiutils](https://github.com/Digisata/digiutils/commit/9d2049c61cde60c3568c35b2790ca861d59a74e8)
+2. [DigiutilsApi](https://github.com/Digisata/digiutilsapi)
