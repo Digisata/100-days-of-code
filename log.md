@@ -41,3 +41,16 @@
 1. [DigiutilsApi Image](https://hub.docker.com/r/digisata/digiutilsapi)
 
 ---
+### Day 4: February 8, 2023
+
+**Today's Progress**: Deployed my app to the [railway app](https://railway.app/).
+
+**Thoughts:** Need to adjust some environment configurations between local development and the server to bring my app online.
+
+**Link(s) to work**
+1. [Digiutils](https://github.com/Digisata/digiutils/commit/9d2049c61cde60c3568c35b2790ca861d59a74e8)
+1. [DigiutilsApi](https://github.com/Digisata/digiutilsapi/commit/621219788cbfd442be72a6c9a4fb81a6d3fc9076)
+1. [DigiutilsApi Image](https://hub.docker.com/r/digisata/digiutilsapi)
+1. [Live Demo](https://digiutilsapi-production.up.railway.app/swagger/index.html)
+
+---
