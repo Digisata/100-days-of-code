@@ -54,3 +54,16 @@
 1. [Live Demo](https://digiutilsapi-production.up.railway.app/swagger/index.html)
 
 ---
+### Day 5: February 9, 2023
+
+**Today's Progress**: Learn about AWS VPC and EC2 and also update my Go library.
+
+**Thoughts:** I created a new AWS account and got a free tier to use several AWS services. Let's see what I can build for the next several weeks.
+
+**Link(s) to work**
+1. [Digiutils](https://github.com/Digisata/digiutils/commit/655a4ccf369189c8f3f69326d4d5d481481ab9de)
+1. [DigiutilsApi](https://github.com/Digisata/digiutilsapi/commit/621219788cbfd442be72a6c9a4fb81a6d3fc9076)
+1. [DigiutilsApi Image](https://hub.docker.com/r/digisata/digiutilsapi)
+1. [Live Demo](https://digiutilsapi-production.up.railway.app/swagger/index.html)
+
+---
