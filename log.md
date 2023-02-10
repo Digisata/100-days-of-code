@@ -67,3 +67,10 @@
 1. [Live Demo](https://digiutilsapi-production.up.railway.app/swagger/index.html)
 
 ---
+### Day 6: February 10, 2023
+
+**Today's Progress**: Start to learn javascript again for backend.
+
+**Thoughts:** Learn more about OOP and FP in javascript. I am familiar with that programming language paradigm but want to know deeper their implementation in javascript.
+
+---
