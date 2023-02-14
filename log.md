@@ -74,3 +74,33 @@
 **Thoughts:** Learn more about OOP and FP in javascript. I am familiar with that programming language paradigm but want to know deeper their implementation in javascript.
 
 ---
+### Day 7: February 11, 2023
+
+**Today's Progress**: Learn to create a simple RESTful API using node js with hapi framework.
+
+**Thoughts:** I think hapi differs from other frameworks I have learned so far. It is not really intuitive in my humble opinion.
+
+**Link to work:** [notes-app-back-end](https://github.com/Digisata/notes-app-back-end/commit/e199421a77ef61b3c9450f6754f57fe29b7867d5)
+
+---
+### Day 8: February 12, 2023
+
+**Today's Progress**: Learn about database migration in golang and docker-compose.yaml file.
+
+**Thoughts:** Using golang migrate library is really good and easy to use. And for docker-compose.yaml I feel intimidated at first but it is starting to make sense to me.
+
+---
+### Day 9: February 13, 2023
+
+**Today's Progress**: Learn one of the most popular CI/CD tools (jenkins).
+
+**Thoughts:** I had plenty of experience with some CI/CD tools, especially for mobile apps. But for jenkins it is really awesome, beginner friendly, and free!!
+
+---
+### Day 10: February 14, 2023
+
+**Today's Progress**: Continue learning jenkins and migrate my [Digiutilsapi](https://github.com/Digisata/digiutilsapi) project to AWS EC2 using jenkins.
+
+**Thoughts:** At first, I struggle with a blocker to setup env for production purposes, but finally, I can make it live!!
+
+---
